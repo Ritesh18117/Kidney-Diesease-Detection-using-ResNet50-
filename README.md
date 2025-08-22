@@ -1,19 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Detection-and-Classification-of-Kidney-Diseases-Using-CT-Scanned-Image
-Classification of Kidney Disease using CNN model in Deep Learning to classify  kidney disease among Cyst, Stone, Tumor and Normal Kidney in Jupyter Notebook.
 
-#) Multi-Class Classification of different Kidney disease:
-  (1)  Cyst
-  (2)  Stone
-  (3)  Tumor
-  (4)  Normal 
-
-
-
-=======
-=======
->>>>>>> 8a7ca05ba4968c4b768affd375bc119a38e64f81
 🩺 Kidney Disease Classification using Deep Learning (CT Scans)
 
 This project focuses on the detection and classification of kidney diseases from CT scanned images using Deep Learning.
@@ -77,9 +62,3 @@ Contributions are welcome!
 Fork the repo
 Create a new branch (feature-xyz)
 Commit changes and open a PR 🚀
-
------------------------------------------------------------------------------
-<<<<<<< HEAD
->>>>>>> 8a7ca05ba4968c4b768affd375bc119a38e64f81
-=======
->>>>>>> 8a7ca05ba4968c4b768affd375bc119a38e64f81
